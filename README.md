@@ -47,4 +47,4 @@
     </a>
 </div>
 
-<a href="https://github.com/nicolaswalcker"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasELopes&hide=html&layout=compact&theme=tokyonight" alt="liguagens mais usadas"  width="400px" min-width="300px"></a>
+<a href="https://github.com/LucasELopes"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasELopes&hide=html&layout=compact&theme=tokyonight" alt="liguagens mais usadas"  width="400px" min-width="300px"></a>
