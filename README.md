@@ -8,13 +8,13 @@
 
 <h3><strong>📱 Contato</strong></h3>
 <p style="display: inline-block; margin-bottom:15px">
-    <a href="mailto:lucaslopeslll412@gmail.com">
+    <a href="mailto:lucaslopeslll412@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/lucas-lopes-306218206/">
+    <a href="https://www.linkedin.com/in/lucas-lopes-306218206/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://t.me/LucasELopes">
+    <a href="https://t.me/LucasELopes" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
 </p>
