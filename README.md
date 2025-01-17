@@ -1,3 +1,15 @@
+h3 {
+    font-size: 1.5rem;
+    line-height: 1.8;
+    color: #2c3e50; /* Tom de cinza-azulado */
+    font-family: 'Arial', sans-serif;
+    text-align: justify; /* Para um alinhamento uniforme */
+}
+
+h3 strong {
+    color: #007BFF; /* Destaque em azul */
+}
+
 <h2><strong>Bem vindo ao meu perfil 👋</strong></h2>
 
 <h3>
