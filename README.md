@@ -1,7 +1,7 @@
 <h2><strong>Bem vindo ao meu perfil 👋</strong></h2>
 
 <h3>
-    Olá, sou <strong>Lucas Emanuel</strong>, estudante de <strong>Ciência da Computação</strong> na <strong>UFES</strong>. 
+    Olá, sou <strong>Lucas Emanuel</strong>, estudante de <strong>Ciência da Computação</strong> na <strong>UFES</strong>.<br> 
     Atualmente, sou estagiário na <strong>Prefeitura de São Mateus</strong> como programador e trainee na <strong>Adapti - Soluções Web</strong>.
 </h3>
 
