@@ -1,8 +1,10 @@
 <h2><strong>Bem vindo ao meu perfil 👋</strong></h2>
 
 <h3>
-    Meu nome é Lucas Emanuel e curso Ciência da Computação na UFES.
+    Olá, sou <strong>Lucas Emanuel</strong>, estudante de <strong>Ciência da Computação</strong> na <strong>UFES</strong>. 
+    Atualmente, sou estagiário na <strong>Prefeitura de São Mateus</strong> como programador e trainee na <strong>Adapti - Soluções Web</strong>.
 </h3>
+
 
 #
 
