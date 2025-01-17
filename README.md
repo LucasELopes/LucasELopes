@@ -1,12 +1,11 @@
 <h2><strong>Bem vindo ao meu perfil 👋</strong></h2>
 
 <h3>
-    Olá, sou <strong>Lucas Emanuel</strong>, estudante de <strong>Ciência da Computação</strong> na <strong>UFES</strong>.<br> 
-    Atualmente, sou estagiário na <strong>Prefeitura de São Mateus</strong> como programador e trainee na <strong>Adapti - Soluções Web</strong>.
+    Olá, sou <strong>Lucas Emanuel</strong>, estudante de <strong>Ciência da Computação</strong> na <strong>UFES</strong>.
 </h3>
-
-
-#
+<h2>
+    Atualmente, sou estagiário na <strong>Prefeitura de São Mateus</strong> como programador e trainee na <strong>Adapti - Soluções Web</strong>.
+</h2>
 
 <h3><strong>📱 Contato</strong></h3>
 <p style="display: inline-block; margin-bottom:15px">
