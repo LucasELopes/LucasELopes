@@ -45,6 +45,9 @@
     <a>
         <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     </a>
+    <a>
+        <img alt ="react" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+    </a>
 </div>
 
 <a href="https://github.com/LucasELopes"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasELopes&hide=html&layout=compact&theme=tokyonight" alt="liguagens mais usadas"  width="400px" min-width="300px"></a>
