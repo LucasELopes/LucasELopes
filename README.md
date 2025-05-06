@@ -4,7 +4,7 @@
     Olá, sou <strong>Lucas Emanuel</strong>, estudante de <strong>Ciência da Computação</strong> na <strong>UFES</strong>.
 </h3>
 <h4>
-    Atualmente, sou estagiário na <strong>Prefeitura de São Mateus (ES)</strong> como programador e trainee na <strong>Adapti - Soluções Web</strong>.
+    Atualmente, sou estagiário na <strong>Prefeitura de São Mateus (ES)</strong> como programador e assessor na <strong>Adapti - Soluções Web</strong>.
 </h4>
 
 <h3><strong>📱 Contato</strong></h3>
